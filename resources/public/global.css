@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.filter-background{
+    filter:blur(2px) contrast(1.1) grayscale(0.18) hue-rotate(2deg) sepia(0.42) brightness(0.4);
+}
