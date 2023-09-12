@@ -1,5 +1,5 @@
 
-# Projeto FullStack feito pela máteria de Engenharia de Software na UFU
+# Projeto FullStack feito para matéria de Engenharia de Software na UFU
 Bom, o projeto é feito em Clojure, com algumas bibliotecas para auxiliar na criação do site de maneira mais rápida, como por exemplo, para o frontend, estou utilizando ClojureScript com re-frame (a configuração do shadowcljs é um pouco chatinha, provavelmente explico isso quando finalizar), utilizarei também bibliotecas para as requisições http já que será incrementado no código em algum momento a API criada para salvar pedidos, não falei sobre isso ainda, porém esse projeto é basicamente uma Pizzaria virtual (um iFood, mas só de pizzas).
 
 
